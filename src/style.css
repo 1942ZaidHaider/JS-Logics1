@@ -1,0 +1,27 @@
+body {
+    background-color: #222;
+    color:whitesmoke;
+}
+table{
+    width: 100%;
+    text-align: right;
+    column-width: 50%;
+}
+#input tr{
+    /* display: block; */
+    margin:2%;
+}
+#input input{
+    width: 100%;
+    box-sizing: border-box;
+}
+#input [type=button]{
+    width: 50%;
+    margin-right:50%;
+}
+#main{
+    width: 30%;
+    margin:auto;
+    margin-top: 20%;
+    text-align: center;
+}
